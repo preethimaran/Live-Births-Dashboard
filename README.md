@@ -12,6 +12,8 @@ The project demonstrates data modelling, DAX calculations, and interactive visua
 For a detailed explanation of the dataset, methodology, and insights, see the accompanying blog post:
 <https://preethimaran.hashnode.dev/creating-an-interactive-power-bi-dashboard-on-birth-trends>
 
+## Dashboard Pages
+
 
 <img width="1400" height="695" alt="Image" src="https://github.com/user-attachments/assets/f96e5bfc-44fa-4374-9ccc-0525180d3c3e" />
 
