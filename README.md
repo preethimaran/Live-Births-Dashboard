@@ -36,7 +36,10 @@ For a detailed explanation of the dataset, methodology, and insights, see the ac
 ## Data Source
 
 Greater London Authority. *Births by Mother’s Country of Birth in London*.  
-Source: London Datastore.  
-Licensed under CC BY 4.0.
+Source: [London Datastore](https://data.london.gov.uk/)
+Licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
 
-Available at: https://data.london.gov.uk/dataset/births-by-mothers-country-of-birth-in-london-2y9y7/
+Available at:  
+https://data.london.gov.uk/dataset/births-by-mothers-country-of-birth-in-london-2y9y7/
+
+*The data has been cleaned and transformed for analysis in this project.*
