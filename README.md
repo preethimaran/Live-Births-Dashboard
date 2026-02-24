@@ -1,5 +1,16 @@
-# Live-Births-Dashboard
-An interactive PowerBI dashboard analysing the trends in birth patterns in London, England, and Wales, according to the countries of birth of mothers between 2001 and 2024.
+# Live Births Dashboard
+
+An interactive Power BI dashboard analysing trends in live births across London, England, and Wales from 2001 to 2024.
+
+This dashboard examines:
+- Changes in birth patterns over time
+- Comparisons between London and national trends
+- The distribution of live births by mothers’ country of birth
+
+The project demonstrates data modelling, DAX calculations, and interactive visualisation techniques in Power BI.
+
+For a detailed explanation of the dataset, methodology, and insights, see the accompanying blog post:
+<https://preethimaran.hashnode.dev/creating-an-interactive-power-bi-dashboard-on-birth-trends>
 
 
 <img width="1400" height="695" alt="Image" src="https://github.com/user-attachments/assets/f96e5bfc-44fa-4374-9ccc-0525180d3c3e" />
