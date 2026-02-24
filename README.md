@@ -16,4 +16,6 @@ An interactive PowerBI dashboard analysing the trends in birth patterns in Londo
 
 <img width="1396" height="811" alt="Image" src="https://github.com/user-attachments/assets/a849b4af-42bd-4d3d-be7c-ec79e7d7fcde" />
 
+<img width="1386" height="798" alt="Image" src="https://github.com/user-attachments/assets/c1fc0e30-bba9-411b-9490-205085f4e9cf" />
+
 <img width="1723" height="963" alt="Image" src="https://github.com/user-attachments/assets/ac8af39d-f0f3-46b8-8485-281449daeea3" />
